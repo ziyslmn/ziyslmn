@@ -1,8 +1,8 @@
 # Ziyad Solomon
 
-Cybersecurity graduate with hands-on experience in digital forensics, malware analysis, and system investigation. During my studies at Northeastern Illinois University, I completed multiple security investigations involving Windows and Linux systems, disk image analysis, volatile artifact collection, and static malware analysis of suspicious executables.
+Cybersecurity graduate with hands-on experience in digital forensics, malware analysis, and network traffic investigation. During my studies at Northeastern Illinois University, I completed multiple security investigations involving Windows and Linux systems, disk image analysis, volatile artifact collection, TLS network traffic analysis, and static malware analysis of suspicious executables.
 
-I am currently seeking an entry-level cybersecurity role such as a **Security Operations Center (SOC) Analyst** or **Digital Forensics / Incident Response (DFIR) Analyst**, where I can apply investigative and analytical skills to identify security incidents and analyze system artifacts.
+I am currently seeking an entry-level cybersecurity role such as a **Security Operations Center (SOC) Analyst** or **Digital Forensics / Incident Response (DFIR) Analyst**, where I can apply investigative and analytical skills to identify security incidents, analyze system artifacts, and investigate network activity.
 
 ---
 
@@ -21,45 +21,54 @@ This repository contains multiple hands-on cybersecurity investigations includin
 • Volatile data collection and live system analysis  
 • Disk image forensic analysis using Autopsy  
 • File recovery and data carving investigations  
+• TLS encrypted traffic analysis using Wireshark  
+
+These investigations simulate real-world digital forensic and incident response workflows including artifact analysis, threat indicator investigation, and documentation of security findings.
 
 ---
 
 # Core Skills
 
-Digital Forensics  
+## Digital Forensics
 • Windows system artifact analysis  
 • Linux system investigation  
-• Disk image analysis  
+• Disk image forensic analysis  
 • Volatile artifact collection  
 • File recovery and data carving  
 
-Security Analysis  
+## Security Analysis
 • Static malware analysis  
 • Threat indicator investigation  
 • Log analysis  
+• Network traffic analysis  
+• TLS handshake investigation  
 • Network security fundamentals  
 
 ---
 
 # Tools and Technologies
 
-Digital Forensics  
+## Digital Forensics
 • Autopsy  
 • Sleuth Kit  
 • Sysinternals  
 • Linux forensic utilities  
 
-Malware Analysis  
+## Malware Analysis
 • PE file inspection  
 • Strings analysis  
 • VirusTotal  
 • Hybrid Analysis  
 
-Operating Systems  
+## Network Analysis
+• Wireshark  
+• Packet inspection and protocol analysis  
+
+## Operating Systems
 • Linux  
 • Windows  
 
-Virtualization  
+## Virtualization
 • VirtualBox  
 
 ---
@@ -72,6 +81,7 @@ Virtualization
 • Volatile Data Collection and Live System Analysis  
 • Disk Image Forensics (Autopsy Investigation)  
 • File Recovery and Data Carving  
+• TLS Traffic Analysis with Wireshark  
 
 ---
 
